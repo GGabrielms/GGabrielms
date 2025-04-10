@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello world
+## I'm Gabriel, a front-end developer
 
-<!--
-**GGabrielms/GGabrielms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github.com/GGabrielms/GGabrielms/blob/main/Mario.gif">
+  
+  <div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" style="width:50px; height:auto;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" style="width:50px;heifht:auto;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="width:50px;heifht:auto;" />
 
-Here are some ideas to get you started:
+</div>
+<div>
+  <a href="https://www.linkedin.com/in/gabriel-martins-744159227/" target="_blank">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" style="width:100px; height:auto;"/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+
+  
