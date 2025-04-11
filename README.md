@@ -14,13 +14,13 @@
 ## My contact:
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/gabriel-martins-744159227/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="width:40px;" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="height:30px; width:auto;" />
   </a> 
   <a href="https://www.instagram.com/martinsgabriel123/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" style="width:40px;" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="height:30px; width:auto;" />
   </a>
   <a href="martinsgabrielwolf@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:30px; width:auto;" />
   </a>
 </div>
 
