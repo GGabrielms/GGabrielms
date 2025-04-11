@@ -19,6 +19,7 @@
   <a href="https://www.instagram.com/martinsgabriel123/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="height:30px; width:auto;" />
   </a>
+  <! --here the process of converting characters with special meaning in HTML into their equivalent character entities was used -->
   <a href="mailto:&#109;&#97;&#114;&#116;&#105;&#110;&#115;&#103;&#97;&#98;&#114;&#105;&#101;&#108;&#119;&#111;&#108;&#102;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:30px; width:auto;" />
   </a>
