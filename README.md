@@ -19,7 +19,7 @@
   <a href="https://www.instagram.com/martinsgabriel123/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="height:30px; width:auto;" />
   </a>
-  <a href="martinsgabrielwolf@gmail.com">
+  <a href="mailto:martinsgabrielwolf@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height:30px; width:auto;" />
   </a>
 </div>
