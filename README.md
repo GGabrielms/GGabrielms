@@ -1,5 +1,4 @@
-# Hello world
-## I'm Gabriel, a front-end developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&width=660&lines=Hello+world+I'm+Gabriel%2C+a+front-end+developer+!)](https://git.io/typing-svg)
 
 <img src="https://github.com/GGabrielms/GGabrielms/blob/main/Mario.gif">
 
