@@ -24,6 +24,8 @@
   </a>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGabrielms&show_icons=true&theme=algolia  )
+
 
 
 
