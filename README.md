@@ -25,7 +25,7 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GGabrielms&show_icons=true&theme=algolia  )
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=GGabrielms&layout=compact&langs_count=7&theme=highcontrast_)
 
 
 
