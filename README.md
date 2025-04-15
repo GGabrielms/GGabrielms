@@ -2,7 +2,7 @@
 
 <img src="https://github.com/GGabrielms/GGabrielms/blob/main/Mario.gif">
 
-### Tools I've worked on
+<h1> Tools I've worked on: </h1>
   
 <div style="display: flex; gap: 10px; align-items: center;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" style="width:50px; height:auto;" />
@@ -10,7 +10,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" style="width:50px;heifht:auto;" />
 </div>  
 
-## My contact:
+<h2> My contact: </h2>
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/gabriel-martins-744159227/" target="_blank">
