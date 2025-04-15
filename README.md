@@ -11,6 +11,7 @@
 </div>  
 
 ## My contact:
+
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.linkedin.com/in/gabriel-martins-744159227/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="height:30px; width:auto;" />
